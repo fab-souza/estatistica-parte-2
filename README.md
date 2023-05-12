@@ -27,3 +27,12 @@ Os conceitos do curso foram aplicados ao dataset da [Pesquisa Nacional por Amost
 
 
 # Minha prática 👩🏻‍💻
+
+
+
+
+
+
+
+
+# Conclusão 🏁
