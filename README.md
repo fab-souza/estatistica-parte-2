@@ -17,7 +17,7 @@
 
 Este é o segundo curso de estatística básica da [Alura](https://www.alura.com.br/), também ministrado pelo instrutor [Rodrigo Dias](https://www.linkedin.com/in/rodrigo-fernando-dias-118181120/). No curso anterior, o foco estava nas frequências e medidas, enquanto neste, houve um aprofundamento em conceitos teóricos, por exemplo, o que são as distribuições de probabilidade (binomial, de Poisson e normal), as técnicas de amostragem e intervalo de confiança. 
 
-Os conceitos do curso foram aplicados ao dataset da [Pesquisa Nacional por Amostra de Domicílio](https://www.ibge.gov.br/estatisticas/sociais/populacao/19897-sintese-de-indicadores-pnad2.html?=&t=microdados), provenientes do IBGE.
+Os conceitos do curso foram aplicados ao dataset da [Pesquisa Nacional por Amostra de Domicílio](https://www.ibge.gov.br/estatisticas/sociais/populacao/19897-sintese-de-indicadores-pnad2.html?=&t=microdados), provenientes do IBGE. Desta forma, ao final do curso, elaborou-se um projeto.
 
 ![image](https://user-images.githubusercontent.com/67301805/236932527-88136f4d-4077-4419-81e4-6e36380afceb.png)
 
