@@ -24,7 +24,7 @@ Os conceitos do curso foram aplicados ao dataset da [Pesquisa Nacional por Amost
 
 ![image](https://user-images.githubusercontent.com/67301805/236932527-88136f4d-4077-4419-81e4-6e36380afceb.png)
 
-Desta forma, finalizamos o curso elaborando um projeto.
+Desta forma, finalizamos o curso elaborando um projeto, com ênfase em **Probabilidade**, **Amostragem**, e **Estimação**.
 
 
 
