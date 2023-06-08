@@ -26,6 +26,7 @@ Os conceitos do curso foram aplicados ao dataset da [Pesquisa Nacional por Amost
 
 Desta forma, finalizamos o curso elaborando um projeto, com ênfase em **Probabilidade**, **Amostragem**, e **Estimação**.
 
+![image](https://github.com/fab-souza/estatistica-parte-2/assets/67301805/da9e06c7-eb1d-4af9-9868-1ea2ef6a611b)
 
 
 
