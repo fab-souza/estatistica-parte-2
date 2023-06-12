@@ -29,6 +29,7 @@ Desta forma, finalizamos o curso elaborando um projeto, com ênfase em **Probabi
 ![image](https://github.com/fab-souza/estatistica-parte-2/assets/67301805/da9e06c7-eb1d-4af9-9868-1ea2ef6a611b)
 ![image](https://github.com/fab-souza/estatistica-parte-2/assets/67301805/55bef16d-59e6-4b6f-b27b-ffa8335b6402)
 ![image](https://github.com/fab-souza/estatistica-parte-2/assets/67301805/3fedc309-655c-4cc3-981e-546e4b390079)
+![image](https://github.com/fab-souza/estatistica-parte-2/assets/67301805/2fe71e45-79bf-4b2f-b131-336a0b973000)
 
 
 
