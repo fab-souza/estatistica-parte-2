@@ -57,4 +57,4 @@ Desta forma, finalizamos o curso elaborando um projeto, com ênfase em **Probabi
   </p>
 
 <br><hr>
-[🔼 back to Top](https://github.com/fab-souza/estatistica-parte-2/edit/main/README.md#estatistica-parte-2)
+[🔼 back to Top](https://github.com/fab-souza/estatistica-parte-2/tree/main#estatistica-parte-2)
