@@ -1,3 +1,4 @@
+<h1 align='center'>Estatistica-parte-2</h1>
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
@@ -54,3 +55,6 @@ Desta forma, finalizamos o curso elaborando um projeto, com ênfase em **Probabi
   <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://numpy.org/images/logo.svg" alt="numpy" width="40" height="40"/> </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib" width="40" height="40"/> </a>
   </p>
+
+<br><hr>
+[🔼 back to Top](https://github.com/fab-souza/estatistica-parte-2/edit/main/README.md#estatistica-parte-2)
