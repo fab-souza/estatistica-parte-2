@@ -38,6 +38,7 @@ Desta forma, finalizamos o curso elaborando um projeto, com ênfase em **Probabi
 
 Mais uma vez, eu decidi trabalhar com um dataset referente aos empreendimentos de geração de energia elétrica presentes no país, os dados da [Agência Nacional de Energia Elétrica](https://dadosabertos.aneel.gov.br/dataset/siga-sistema-de-informacoes-de-geracao-da-aneel).
 
+![image](https://github.com/fab-souza/estatistica-parte-2/assets/67301805/17e9dee7-35ce-48f6-9403-d800f0369919)
 
 
 
