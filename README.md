@@ -40,7 +40,7 @@ Mais uma vez, eu decidi trabalhar com um dataset referente aos empreendimentos d
 
 ![image](https://github.com/fab-souza/estatistica-parte-2/assets/67301805/17e9dee7-35ce-48f6-9403-d800f0369919)
 
-
+Ao utilizar este dataset, eu não teria à disposição todos os tipos de dados (qualitativa ordinal e nominal, quantitativa discreta e contínua), e com distribuições que representassem condições ideias para análise. No entanto, achei interessante trabalhar com essa ‘imperfeição’ nos dados, pois acredito que, em um ambiente de trabalho, a situação seja semelhante.
 
 
 
