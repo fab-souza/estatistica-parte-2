@@ -42,7 +42,7 @@ Mais uma vez, eu decidi trabalhar com um dataset referente aos empreendimentos d
 
 Ao utilizar este dataset, eu não teria à disposição todos os tipos de dados (qualitativa ordinal e nominal, quantitativa discreta e contínua), e com distribuições que representassem condições ideias para análise. No entanto, achei interessante trabalhar com essa ‘imperfeição’ nos dados, pois acredito que, em um ambiente de trabalho, a situação seja semelhante.
 
-Decidi tentar replicar os problemas A, B e C, apresentados no curso, para este dataset e adaptando alguns pontos.
+Decidi replicar os problemas A, B e C, apresentados no curso, para este dataset e adaptando alguns pontos.
 
 
 
