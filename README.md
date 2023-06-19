@@ -76,7 +76,7 @@ Em estudos deste tipo, o **custo médio por entrevista, fica em torno de R$\$$ 4
 # Conclusão 🏁
 
 
-
+Muito obrigada por chegar até aqui e até a próxima 🤗
 
 ## Ferramentas utilizadas 🧰
 <p>
