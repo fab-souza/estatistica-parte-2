@@ -56,24 +56,26 @@ Ainda sobre a questão anterior, quantos grupos (de 10 usinas) será preciso sel
 
 Tenho que fazer um estudo para avaliar o **preço de automóveis**. Para isso, preciso realizar uma pesquisa de campo. Após reunião com meu supervisor fictício, foi possível elencar o seguinte conjunto de informações:
 
-- O resultado da pesquisa precisa estar pronto em **6 semanas**;
-
 - Tenho somente **R$ 30.000,00** de recursos para realização da pesquisa de campo; e
 
-- Seria interessante uma **margem de erro não superior a 10% em relação a média estimada**.
+- Seria interessante uma **margem de erro** não superior a **10%** em **relação a média estimada**.
 
-Em estudos deste tipo, o **custo médio por entrevista, fica em torno de R$\$$ 40,00**. Com este conjunto de fatos, preciso avaliar e obter as seguintes informações:
+Em estudos deste tipo, o **custo médio por entrevista**, fica em torno de **R$95,00**. Com este conjunto de fatos, preciso avaliar e obter as seguintes informações:
 
 > 1. Para obter uma estimativa para os parâmetros da população (preço dos automóveis), realize uma amostragem aleatória simples no conjunto de dados. Essa amostra deve conter 300 elementos, obtenha a média e o desvio-padrão dessa amostra.
 > 2. Para a **margem de erro** especificada, obtenha os **tamanhos de amostra** necessários para garantir os **níveis de confiança de 90%, 95% e 99%**.
 > 3. Obtenha o **custo da pesquisa** para os três níveis de confiança.
 > 4. Para o maior nível de confiança viável (dentro do orçamento disponível), obtenha um **intervalo de confiança para a média da população**.
 > 5. Assumindo o **nível de confiança escolhido no item anterior**, qual **margem de erro** pode ser considerada utilizando todo o recurso disponibilizado?
-> 6. Assumindo um **nível de confiança de 95%**, **quanto a pesquisa custaria**, caso fosse considerada uma **margem de erro de apenas 3%** em relação à média estimada?
-
-
+> 6. Assumindo um **nível de confiança de 95%**, **quanto a pesquisa custaria**, caso fosse considerada uma **margem de erro de apenas 5%** em relação à média estimada?
 
 # Conclusão 🏁
+
+
+
+
+
+
 
 
 Muito obrigada por chegar até aqui e até a próxima 🤗
