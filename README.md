@@ -72,10 +72,15 @@ Em estudos deste tipo, o **custo médio por entrevista**, fica em torno de **R$9
 
 # Conclusão 🏁
 
+Fiquei contente em concluir o curso, no qual aprendi como calcular uma série de tópicos essenciais em estatística através de métodos do Scipy, entre eles:
+- as Distribuições Binomial, Poisson e Normal, que são fundamentais para lidar com dados estatísticos e realizar análises mais precisas; 
+- os conceitos de Nível e Intervalo de Confiança, que permitem avaliar a precisão de estimativas estatísticas e fornecem uma base sólida para a tomada de decisões baseadas em dados; 
+- as técnicas de Amostragem, pois selecionar uma amostra representativa de uma população é crucial para evitar vieses e garantir a validade das conclusões estatísticas que podemos obter a partir dos dados coletados; 
+- e por último, mas não menos importante, calcular o tamanho da amostra necessário para alcançar uma margem de erro desejada, que é uma habilidade inestimável ao planejar estudos e pesquisas, pois permite determinar a quantidade adequada de dados a serem coletados para obter resultados confiáveis.
 
+Ter a oportunidade de aplicar esses conhecimentos em uma simulação de projeto foi extremamente gratificante, poder ver na prática como as técnicas estatísticas podem ser úteis na resolução de problemas e na tomada de decisões só reforçou a importância do curso.
 
-
-
+Em suma, estou muito contente de ter aprendido todos os tópicos e de ter colocado a mão na massa, agora me sinto mais preparada para enfrentar desafios estatísticos no futuro e utilizar essas habilidades para tomar decisões informadas e embasadas em dados.
 
 ---
 
@@ -87,6 +92,6 @@ Muito obrigada por chegar até aqui e até a próxima 🤗
   <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>
   <a href="https://scipy.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" alt="scipy" width="40" height="40"/> </a>
   </p>
-
+  
 <br><hr>
 [🔼 back to Top](https://github.com/fab-souza/estatistica-parte-2/tree/main#estatistica-parte-2)
